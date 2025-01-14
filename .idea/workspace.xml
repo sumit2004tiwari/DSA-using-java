@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec2e8828-8d64-4f06-ac2d-155dba47d031" name="Changes" comment="pyramid and revere half traingle">
-      <change afterPath="$PROJECT_DIR$/src/numerPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hollownumbertriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trianglenumberpyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
