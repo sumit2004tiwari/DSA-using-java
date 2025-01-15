@@ -10,9 +10,9 @@ public class binarytodecimal {
         while (binarynumber > 0){
            ans +=  (binarynumber % 10) * power;
            binarynumber = binarynumber /10;
-           power = power *2;
+           power = power * 2;
 
         }
-        System.out.println(ans + "ans");
+        System.out.println(ans + " ans");
     }
 }
